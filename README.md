@@ -2,6 +2,9 @@
 
 ## 📌 Project Overview
 This project demonstrates a production-style 3-tier architecture deployed in AWS using high availability and security best practices.
+## 🏗 Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
 
 The architecture includes:
 - Custom VPC
@@ -11,7 +14,7 @@ The architecture includes:
 - Application Load Balancer
 - Auto Scaling Group
 - Multi-AZ RDS
-- Bastion Host
+
 
 ---
 
